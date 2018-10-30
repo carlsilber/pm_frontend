@@ -19,3 +19,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# not for Github
+/design_stuff
+MY_CODE.md
